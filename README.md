@@ -1,2 +1,2 @@
-# projectnest-302
-wine quality prediction
+# wine-quality-prediction
+projectnest 302
